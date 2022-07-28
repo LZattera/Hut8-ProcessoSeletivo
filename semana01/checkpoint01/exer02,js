@@ -1,0 +1,2 @@
+let n1=5+10+15;
+console.log(n1);
