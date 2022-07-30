@@ -1,2 +1,2 @@
 # Hut8-ProcessoSeletivo
-Repositório criado  para realizar os exercícios propostos no processo seletivo da Hut8/2022
+Repositório para os exercícios do processo seletivo da Hut8/2022
