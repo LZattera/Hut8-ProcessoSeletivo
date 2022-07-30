@@ -1,4 +1,3 @@
-/*Faça uma função que recebe a idade de um nadador e retorna a categoria dessenadador de acordo com a tabela abaixo:Idade - Categoria5 a 7 anos - Infantil A8 a 10 anos - Infantil B11 - 13 anos - Juvenil A14 - 17 anos - Juvenil BMaiores de 18 anos (inclusive) - Adulto*/
 function getAge(age){
    if(age >= 5 && age <= 7){
         return 'INFANTIL A';
