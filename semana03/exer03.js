@@ -8,3 +8,4 @@ function MaiorDeIdade(user){
     age>=18? console.log('Maior de Idade') : console.log('Menor de Idade');
 }
 
+/*FAZER COM ARROW FUNCTION DA PRA OTIMIZAR MAIS*/
